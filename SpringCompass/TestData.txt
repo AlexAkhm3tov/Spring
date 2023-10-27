@@ -1,0 +1,10 @@
+{
+    "North": "338-22",
+    "NorthEast": "23-67",
+    "East": "68-112",
+    "SouthEast": "113-157",
+    "South": "158-202",
+    "SouthWest": "203-247",
+    "West": "248-292",
+    "NorthWest": "293-337"
+}
